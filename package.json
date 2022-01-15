@@ -1,0 +1,25 @@
+{
+  "name": "airdropsolana",
+  "version": "1.0.0",
+  "description": "This is an air drop program on Solana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iswarmondal/AirDropSolana.git"
+  },
+  "keywords": [
+    "Solana"
+  ],
+  "author": "Iswar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iswarmondal/AirDropSolana/issues"
+  },
+  "homepage": "https://github.com/iswarmondal/AirDropSolana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
